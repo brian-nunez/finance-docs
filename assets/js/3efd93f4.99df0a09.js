@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbdocs=self.webpackChunkbdocs||[]).push([[8036],{4625:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/finance-docs/blog/tags/docusaurus","allTagsPath":"/finance-docs/blog/tags","count":4,"unlisted":false}')}}]);

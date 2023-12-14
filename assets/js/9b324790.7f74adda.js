@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbdocs=self.webpackChunkbdocs||[]).push([[188],{4895:s=>{s.exports=JSON.parse('{"label":"hello","permalink":"/finance-docs/blog/tags/hello","allTagsPath":"/finance-docs/blog/tags","count":2,"unlisted":false}')}}]);
