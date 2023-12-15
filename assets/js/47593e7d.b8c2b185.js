@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbdocs=self.webpackChunkbdocs||[]).push([[296],{6941:s=>{s.exports=JSON.parse('{"label":"high-yield","permalink":"/finance-docs/blog/tags/high-yield","allTagsPath":"/finance-docs/blog/tags","count":1,"unlisted":false}')}}]);

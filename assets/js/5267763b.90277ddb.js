@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbdocs=self.webpackChunkbdocs||[]).push([[2950],{8340:e=>{e.exports=JSON.parse('{"permalink":"/finance-docs/blog/tags/high-yield","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
